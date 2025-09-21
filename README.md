@@ -157,9 +157,3 @@ Retorna todos os registros de usuários e cálculos em ordem decrescente de data
    http://localhost:8080/index.html
    ```
 
----
-
-##  Autor
-
-Desenvolvido por **Matheus Silva** 
-Projeto para estudo de **Spring Boot, APIs REST e frontend responsivo sem frameworks**.
